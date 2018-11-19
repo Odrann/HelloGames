@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+    <string name="name_txt">name_txt</string>
+    <string name="type_txt">type_txt</string>
+    <string name="playerNb_txt">playerNb_txt</string>
+    <string name="year_txt">year_txt</string>
+    <string name="loading_txt">loading_txt</string>
+    <string name="more_txt">more_txt</string>
+    <string name="gameInfo_txt">gameInfo_txt</string>
+</resources>
